@@ -1,8 +1,8 @@
 Realização de um projteo em HTML e CSS
 Link: https://tiagogorridev.github.io/PROJETO-CORDEL/
 
-![image](https://github.com/tiagogorridev/PROJETO-CORDEL/assets/155651809/a733085c-b8cc-437c-9237-31e7f99d1e6f)!
-[image](https://github.com/tiagogorridev/PROJETO-CORDEL/assets/155651809/1c88d49f-e0b4-4972-b620-e125f6125f51)
+![image](https://github.com/tiagogorridev/PROJETO-CORDEL/assets/155651809/a733085c-b8cc-437c-9237-31e7f99d1e6f)
+![image](https://github.com/tiagogorridev/PROJETO-CORDEL/assets/155651809/1c88d49f-e0b4-4972-b620-e125f6125f51)
 ![image](https://github.com/tiagogorridev/PROJETO-CORDEL/assets/155651809/86dfbf00-54f2-41ee-99ac-7feae4f8d7a1)
 ![image](https://github.com/tiagogorridev/PROJETO-CORDEL/assets/155651809/c4df8298-02db-4a43-bc7a-7b1d7feef5a2)
 ![image](https://github.com/tiagogorridev/PROJETO-CORDEL/assets/155651809/d3053bf8-8d45-411b-8306-e18bb5aeb04e)
