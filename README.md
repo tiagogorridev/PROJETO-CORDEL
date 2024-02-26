@@ -1,4 +1,4 @@
-Realização de um projteo em HTML e CSS
+Realização de um projeto em HTML e CSS
 
 Link: https://tiagogorridev.github.io/PROJETO-CORDEL/
 
